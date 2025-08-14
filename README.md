@@ -1,11 +1,13 @@
-# Hi, I’m Vanessa Diaz 👋
+ABOUT ME (●'◡'●)
 
-I’m a **Neuroscience graduate, BCI Developer, and AI Software Engineer** passionate about building technologies that **bridge the brain, behavior, and AI**. I love creating **NeuroAI and Brain-Computer Interface (BCI) systems** that help people enhance cognition, improve therapy, and interact with technology in smarter ways.  
+Hi there, I'm Vanessa! 👋
+
+Neuroscience graduate, BCI developer, and AI software engineer creating advanced NeuroAI technologies that enhance human cognition, therapy, and interaction.
 
 I spend my days designing **real-time EEG pipelines, neurofeedback applications, and emotion-aware systems** using **Python, TensorFlow, PyTorch, embedded devices, and cloud platforms**. I enjoy taking **research ideas and turning them into user-centered, practical neurotechnologies** that have a real-world impact.
 ---
 ## 🏷️ Skills & Tools
-Python | TensorFlow | PyTorch | TensorFlow Lite | OpenBCI | EEG/ERP | Docker | Kubernetes | AWS/GCP/Azure | Edge AI | Machine Learning | Deep Learning | Neurofeedback | HCI | ABA | Cognitive Enhancement
+Neuroscience | ABA | Python | TensorFlow | PyTorch | OpenBCI | EEG/ERP | Signal Processing | Docker | Kubernetes | Cloud Computing | APIs | Machine Learning | Deep Learning | Neurofeedback | Behavioral Science |
 ---
 
 ## 🔗 Portfolio & Contact
@@ -14,31 +16,6 @@ Python | TensorFlow | PyTorch | TensorFlow Lite | OpenBCI | EEG/ERP | Docker | K
 - Email / LinkedIn: V.arlett@hotmail.com / www.linkedin.com/in/vanessa-369-0010110z
   
 ---
-
-## 🧠 Core Expertise
-- Brain-Computer Interface (EEG/ERP, OpenBCI, LSL)  
-- Real-time EEG pipelines & neurofeedback systems  
-- Machine Learning & Deep Learning (TensorFlow, Keras, PyTorch)  
-- Edge & Embedded AI (TensorFlow Lite, microcontrollers)  
-- Cloud Deployment & MLOps (AWS, GCP, Azure, Docker, Kubernetes)  
-- Behavioral Science & Applied Behavior Analysis (ABA)  
-- Human-Computer Interaction (HCI) and cognitive enhancement  
-- Experimental design, data pipelines, and model validation  
-
----
-
-## 🚀 Featured Projects
-- **NeuroTune** — Real-time neurofeedback system adapting music from EEG to enhance focus and reduce anxiety  
-- **Synaptech** — Emotion-aware CBT assistant detecting tone and stress levels from speech  
-- **CortexTrader** — Neuroadaptive RL trading bot integrating cognitive state signals with market data  
-- **NeuroStream** — Live EEG dashboard for cognitive monitoring and visualization  
-- **Cognisync** — Hybrid BCI (P300 + Motor Imagery) for smart-home control  
-- **NeuroFit AI** — Personalized brain-training and neuroplasticity tracking system  
-
-> Explore the full portfolio with visuals and interactive demos: [Portfolio Link](https://arl3tt.github.io/portfolio-project)
-
----
-
 ## 🌱 Current Focus
 - Hybrid BCIs combining Motor Imagery and P300 paradigms  
 - Emotion-aware human-computer interaction and ethical AI  
@@ -53,9 +30,7 @@ I am open to:
 - Applied ML & deep learning projects  
 - Open-source collaborations for reproducible neurotechnology pipelines  
 - Research partnerships combining AI, neuroscience, and cognitive science  
-
 > To collaborate: open an issue with the **idea, scope, and goals**, and I’ll provide a lean implementation plan.
-
 ---
 🌱 Just Learned
 Exploring more about Neurofeedback and its applications in cognitive enhancement.
@@ -71,10 +46,10 @@ Feel free to check out my projects and reach out if you’re interested in colla
 --->
 ## 🏷️ Badges
 ![BCI](https://img.shields.io/badge/BCI-EEG%20%7C%20OpenBCI-informational)  
-![NeuroAI](https://img.shields.io/badge/NeuroAI-Emotion--Aware%20%7C%20Cognition-blue)  
-![ML](https://img.shields.io/badge/ML/DL-TensorFlow%20%7C%20PyTorch-orange)  
-![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP%20%7C%20Azure-success)  
-![MLOps](https://img.shields.io/badge/MLOps-Docker%20%7C%20Kubernetes%20%7C%20CI%2FCD-brightgreen)  
+![NeuroAI](https://img.shields.io/badge/NeuroAI-Neuroscience%20%7C%20BCI%20%7C%20AI%20%7C%20Cognition-blue)  
+![ML](https://img.shields.io/badge/ML%2FDL-TensorFlow%20%7C%20PyTorch%20%7C%20Keras-orange)  
+![Cloud](https://img.shields.io/badge/Cloud-APIs%20%7C%20GCP%20%7C%20Azure-success)  
+![MLOps](https://img.shields.io/badge/MLOps-Docker%20%7C%20Git%20%7C%20Kubernetes%20%7C%20CI%2FCD-brightgreen) 
 ![OpenToWork](https://img.shields.io/badge/Open%20to-BCI%20%7C%20NeuroAI%20roles-purple)
 
 ---
