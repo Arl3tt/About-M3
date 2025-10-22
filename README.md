@@ -7,7 +7,7 @@ Neuroscience graduate, BCI developer, and AI software engineer creating advanced
 I spend my days designing **real-time EEG pipelines, neurofeedback applications, and emotion-aware systems** using **Python, TensorFlow, PyTorch, embedded devices, and cloud platforms**. I enjoy taking **research ideas and turning them into user-centered, practical neurotechnologies** that have a real-world impact.
 ---
 ## 🏷️ Skills & Tools
-Neuroscience | ABA | Python | TensorFlow | PyTorch | OpenBCI | EEG/ERP | Signal Processing | Docker | Kubernetes | Cloud Computing | APIs | Machine Learning | Deep Learning | Neurofeedback | Behavioral Science |
+Neuroscience | ABA | Python | TensorFlow | PyTorch | AI | OpenBCI Tech | EEG/ERP | Signal Processing | Docker | Kubernetes | Cloud Computing | APIs | UI and UX Design | Machine Learning | Deep Learning | Neurofeedback | Behavioral Science |
 ---
 
 ## 🔗 Portfolio & Contact
